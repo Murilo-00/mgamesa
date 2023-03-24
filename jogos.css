@@ -1,0 +1,13 @@
+body{
+    margin: 0%;
+}
+
+
+ul{
+    list-style: none;
+}
+
+.senha{
+      display: flex;
+      justify-content:space-around ;
+}
